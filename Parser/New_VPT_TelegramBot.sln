@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "New_VPT_TelegramBot", "New_VPT_TelegramBot\New_VPT_TelegramBot.csproj", "{F4D833D5-5AB9-46DE-973E-A2B9D0328972}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schedule_ExcelReader_Core", "Schedule_Excel_Reader\Schedule_ExcelReader_Core\Schedule_ExcelReader_Core.csproj", "{C4D432F6-9548-4E40-9293-7318D22A777C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPT_TelegramBot", "VPT_TelegramBot\VPT_TelegramBot.csproj", "{6E827CE6-5C68-462E-9644-A985432A8472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D833D5-5AB9-46DE-973E-A2B9D0328972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D833D5-5AB9-46DE-973E-A2B9D0328972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D833D5-5AB9-46DE-973E-A2B9D0328972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D833D5-5AB9-46DE-973E-A2B9D0328972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D432F6-9548-4E40-9293-7318D22A777C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D432F6-9548-4E40-9293-7318D22A777C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D432F6-9548-4E40-9293-7318D22A777C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D432F6-9548-4E40-9293-7318D22A777C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E827CE6-5C68-462E-9644-A985432A8472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E827CE6-5C68-462E-9644-A985432A8472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E827CE6-5C68-462E-9644-A985432A8472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E827CE6-5C68-462E-9644-A985432A8472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8694FD-B5FE-4BB2-A6BE-1D690A8D0995}
+	EndGlobalSection
+EndGlobal

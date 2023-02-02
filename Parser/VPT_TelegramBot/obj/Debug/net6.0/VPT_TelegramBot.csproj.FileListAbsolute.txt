@@ -1,0 +1,12 @@
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\bin\Debug\net6.0\VPT_TelegramBot.deps.json
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\bin\Debug\net6.0\VPT_TelegramBot.dll
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\bin\Debug\net6.0\VPT_TelegramBot.pdb
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\VPT_TelegramBot.csproj.AssemblyReference.cache
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\VPT_TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\VPT_TelegramBot.AssemblyInfoInputs.cache
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\VPT_TelegramBot.AssemblyInfo.cs
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\VPT_TelegramBot.csproj.CoreCompileInputs.cache
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\VPT_TelegramBot.dll
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\refint\VPT_TelegramBot.dll
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\VPT_TelegramBot.pdb
+Q:\VisualStudioProject\New_VPT_TelegramBot\VPT_TelegramBot\obj\Debug\net6.0\ref\VPT_TelegramBot.dll

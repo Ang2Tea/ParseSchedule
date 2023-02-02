@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\New_VPT_TelegramBot\\New_VPT_TelegramBot.csproj": {}
+  },
+  "projects": {
+    "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\New_VPT_TelegramBot\\New_VPT_TelegramBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\New_VPT_TelegramBot\\New_VPT_TelegramBot.csproj",
+        "projectName": "New_VPT_TelegramBot",
+        "projectPath": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\New_VPT_TelegramBot\\New_VPT_TelegramBot.csproj",
+        "packagesPath": "C:\\Users\\mrsiker\\.nuget\\packages\\",
+        "outputPath": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\New_VPT_TelegramBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrsiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\Schedule_Excel_Reader\\Schedule_ExcelReader_Core\\Schedule_ExcelReader_Core.csproj": {
+                "projectPath": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\Schedule_Excel_Reader\\Schedule_ExcelReader_Core\\Schedule_ExcelReader_Core.csproj"
+              },
+              "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\VPT_TelegramBot\\VPT_TelegramBot.csproj": {
+                "projectPath": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\VPT_TelegramBot\\VPT_TelegramBot.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\Schedule_Excel_Reader\\Schedule_ExcelReader_Core\\Schedule_ExcelReader_Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\Schedule_Excel_Reader\\Schedule_ExcelReader_Core\\Schedule_ExcelReader_Core.csproj",
+        "projectName": "Schedule_ExcelReader_Core",
+        "projectPath": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\Schedule_Excel_Reader\\Schedule_ExcelReader_Core\\Schedule_ExcelReader_Core.csproj",
+        "packagesPath": "C:\\Users\\mrsiker\\.nuget\\packages\\",
+        "outputPath": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\Schedule_Excel_Reader\\Schedule_ExcelReader_Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrsiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Google.Apis": {
+              "target": "Package",
+              "version": "[1.59.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.59.0, )"
+            },
+            "Google.Apis.Core": {
+              "target": "Package",
+              "version": "[1.59.0, )"
+            },
+            "Google.Apis.Drive.v2": {
+              "target": "Package",
+              "version": "[1.59.0.2859, )"
+            },
+            "Google.Apis.Drive.v3": {
+              "target": "Package",
+              "version": "[1.59.0.2922, )"
+            },
+            "Google.Apis.Sheets.v4": {
+              "target": "Package",
+              "version": "[1.59.0.2909, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\VPT_TelegramBot\\VPT_TelegramBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\VPT_TelegramBot\\VPT_TelegramBot.csproj",
+        "projectName": "VPT_TelegramBot",
+        "projectPath": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\VPT_TelegramBot\\VPT_TelegramBot.csproj",
+        "packagesPath": "C:\\Users\\mrsiker\\.nuget\\packages\\",
+        "outputPath": "Q:\\VisualStudioProject\\New_VPT_TelegramBot\\VPT_TelegramBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrsiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            },
+            "Telegram.Bots.Extensions.Polling": {
+              "target": "Package",
+              "version": "[5.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
